@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/Wyns2022/PixeneOS/releases/download/2025102800/shiba-2025102800-magisk-30400-2725951.zip",
+    "location_csig": "https://github.com/Wyns2022/PixeneOS/releases/download/2025102800/shiba-2025102800-magisk-30400-2725951.zip.csig"
+  }
+}
