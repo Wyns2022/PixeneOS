@@ -1,7 +1,7 @@
 {
   "version": 2,
   "full": {
-    "location_ota": "https://github.com/Wyns2022/PixeneOS/releases/download/2025121700/shiba-2025121700-rootless-4ef608e.zip",
-    "location_csig": "https://github.com/Wyns2022/PixeneOS/releases/download/2025121700/shiba-2025121700-rootless-4ef608e.zip.csig"
+    "location_ota": "https://github.com/Wyns2022/PixeneOS/releases/download/2025122500/shiba-2025122500-rootless-4ef608e.zip",
+    "location_csig": "https://github.com/Wyns2022/PixeneOS/releases/download/2025122500/shiba-2025122500-rootless-4ef608e.zip.csig"
   }
 }
